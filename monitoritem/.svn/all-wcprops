@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem
+END
+SchemaFieldControl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/SchemaFieldControl.class.php
+END
+ItemData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/ItemData.class.php
+END
+API.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/API.class.php
+END
+SchemaData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/SchemaData.class.php
+END
+GraphData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/GraphData.class.php
+END
+MonitorStatData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/MonitorStatData.class.php
+END
+SchemaFieldData.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/SchemaFieldData.class.php
+END
+ItemControl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/ItemControl.class.php
+END
+MonitorStatMQ.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/MonitorStatMQ.class.php
+END
+SchemaControl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/SchemaControl.class.php
+END
+GraphControl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/navi_monitor/!svn/ver/85/branches/monitor_v2/monitoritem/GraphControl.class.php
+END
